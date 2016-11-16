@@ -1,0 +1,11 @@
+O  tema discutido em grupo e acordado entre todos foi pensado de forma que facilitasse o processo de compra em um supermercado.
+
+O sistema seria uma espécie de e-commerce onde teria duas figuras interessadas, o 'Supermercado' e o 'Cliente do supermercado'.
+
+O supermercado é incubido de cadastrar os produtos, atualizar os preços, colocar os produtos em promoção.
+
+O cliente poderá vizualizar em um mapa as unidades do supermercado e a avaliação do supermercado por outros clientes.
+
+Também poderá vizualizar os produtos e seus preços, disponibilidade em estoque, as ofertas do dia.
+
+As vendas somente são finalizadas se a transação do cartão de crédito for bem sucedidada.
