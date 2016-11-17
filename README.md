@@ -1,5 +1,8 @@
-# Projeto_Hackatruck
+# Projeto HackaTruck
 
-Início do projeto.
+Repositório para os artefatos produzidos no projoto HackaTruck.
 
-Adicionar questões sobre o tema proposto
+# Integrantes
+
+- MATHEUS RIBEIRO PIMENTA NUNES
+- TONY FREITAS
